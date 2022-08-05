@@ -1,0 +1,8 @@
+Fix the keyboard,25,zeldris,34d4b7e3-d6ff-4a9a-b0a0-21f09be68ef1
+
+Fix the insides ,40,zeldris,58aa4afa-d87e-45c5-b659-b3712c265093
+
+Fix the keyboard,25,zeldris,16c4bed1-a5ec-4f91-a53c-dbcabe12eecb
+
+Repair the display,50,asd,4c71e5aa-fec3-40dc-b86c-1d9f8037e232
+

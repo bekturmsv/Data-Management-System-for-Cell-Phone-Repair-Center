@@ -1,0 +1,5 @@
+Apple,Motherboard,255,zeldris,4a16215b-f976-4742-ad4a-1313a23141d6
+Apple,RAM,45,zeldris,17b7abb7-4db5-47bb-8e82-6cf35997563b
+Apple,CPU,135,zeldris,20307f46-09f0-4a03-8fdb-bf04b8cf1319
+Apple,Motherboard,255,zeldris,7c146c79-dce8-49d7-b1f7-3d691174eb89
+Apple,Battery,45,asd,a8be97b1-c25d-4ebb-9b23-f03688357c37

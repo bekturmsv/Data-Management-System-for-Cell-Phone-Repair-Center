@@ -1,0 +1,4 @@
+Apple,RAM,45,zeldris,dc85ba4e-ac71-4fe5-9382-8546e9bb2461
+
+Apple,CPU,135,zeldris,7d8f1f2d-4d80-462d-957f-17b07d390bfd
+

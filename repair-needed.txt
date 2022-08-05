@@ -1,0 +1,8 @@
+Repair the display,50,zeldris,6399a798-4705-448d-b379-0b6d4a99ae69
+Repair the display,50,asd,c58b9d11-6f36-49d6-adff-8a9608f58b85
+Fix the keyboard,25,asd,8cabfeee-1a7f-4797-bc52-427cbf2f9a2f
+Fix the insides ,40,astra,1d8c0cee-2f68-4003-8d27-f253754cdaae
+Fix the insides ,40,astra,24a45701-3777-4cc9-bbaf-c9bc27af0360
+Fix the insides ,40,astt,c8d31fa7-fc72-4da0-9fd5-9d11a2bc21be
+Repair the display,50,blya,0487fdbe-15d5-4c7e-933f-cf4e01480b76
+Repair the display,50,astraa,ebcd9af2-8bbc-4d08-8ec0-df266fca7488
